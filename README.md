@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Yveto-M/Threat_Hunt_Event_-TOR-Usage-)**
 
 
-- (Impossible-Travel-Detection)(https://github.com/Yveto-M/Threat-Hunting-Lab-Impossible-Travel-Detection) 
+- [Impossible-Travel-Detection](https://github.com/Yveto-M/Threat-Hunting-Lab-Impossible-Travel-Detection) 
 
 <hr/>
 
