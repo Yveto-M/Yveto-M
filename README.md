@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - [Impossible-Travel-Detection](https://github.com/Yveto-M/Threat-Hunting-Lab-Impossible-Travel-Detection)
 
-##🚀 Microsoft Azure Administrator Projects
+🚀 **Microsoft Azure Administrator Projects**
 
 <hr/>
 
