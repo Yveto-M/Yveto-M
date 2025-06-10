@@ -17,7 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <p style="font-family:Courier; font-size:90px; color:black;">🛡️ <b>Microsoft Azure Administrator Projects</b></p>
 
-- ** [Azure Compute abd Identity Management Project](https://github.com/Yveto-M/Azure-Compute-and-Identity-Management-Project-1-.git)**
+-  [Azure Compute and Identity Management Project](https://github.com/Yveto-M/Azure-Compute-and-Identity-Management-Project-1-.git)
 
 <hr/>
 
