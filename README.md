@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - [Impossible-Travel-Detection](https://github.com/Yveto-M/Threat-Hunting-Lab-Impossible-Travel-Detection)
 
-<p style="font-family:Courier; font-size:60px; color:black;">🛡️ <b>Microsoft Azure Administrator Projects</b></p>
+<p style="font-family:Courier; font-size:90px; color:black;">🛡️ <b>Microsoft Azure Administrator Projects</b></p>
 
 
 <hr/>
