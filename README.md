@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/yveto-meus/">Yveto Meus</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects enable me to delve deeply into the ever-evolving landscape of cybersecurity. Please feel free to review them and see the work I’ve put into enhancing security operations and processes.
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -19,7 +19,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 -  [Azure Compute and Identity Management Project](https://github.com/Yveto-M/Azure-Compute-and-Identity-Management-Project-1-.git)
 
-https://github.com/Yveto-M/Azure-Networking-Storage/tree/main
 <hr/>
 
 ## 🤳 Connect With Me
