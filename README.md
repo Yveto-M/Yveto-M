@@ -19,6 +19,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 -  [Azure Compute and Identity Management Project](https://github.com/Yveto-M/Azure-Compute-and-Identity-Management-Project-1-.git)
 
+- [Azure-Networking-Storage ](https://github.com/Yveto-M/Azure-Networking-Storage)
 <hr/>
 
 ## 🤳 Connect With Me
