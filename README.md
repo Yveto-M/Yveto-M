@@ -20,9 +20,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 -  [Azure Compute and Identity Management Project](https://github.com/Yveto-M/Azure-Compute-and-Identity-Management-Project-1-.git)
 
 - [Azure-Networking-Storage ](https://github.com/Yveto-M/Azure-Networking-Storage)
+
+-  [Entra ID Integration and Identity Management](https://github.com/Yveto-M/Entra-ID-Integration-and-Identity-Management)
+
 <hr/>
 
-- [Entra ID Integration and Identity Management](https://github.com/Yveto-M/Entra-ID-Integration-and-Identity-Management)
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
