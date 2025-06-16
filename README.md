@@ -22,6 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - [Azure-Networking-Storage ](https://github.com/Yveto-M/Azure-Networking-Storage)
 <hr/>
 
+- [Entra ID Integration and Identity Management](https://github.com/Yveto-M/Entra-ID-Integration-and-Identity-Management)
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
