@@ -21,6 +21,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - [Azure-Networking-Storage ](https://github.com/Yveto-M/Azure-Networking-Storage)
 
+- [Monitoring Backup and Recovery](https://github.com/Yveto-M/Monitoring-Backup-and-Recovery)
+
 -  [Entra ID Integration and Identity Management](https://github.com/Yveto-M/Entra-ID-Integration-and-Identity-Management)
 
 <hr/>
