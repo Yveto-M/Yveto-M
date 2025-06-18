@@ -23,7 +23,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - [Monitoring Backup and Recovery](https://github.com/Yveto-M/Monitoring-Backup-and-Recovery)
 
--  [Entra ID Integration and Identity Management](https://github.com/Yveto-M/Entra-ID-Integration-and-Identity-Management)
+- [Entra ID Integration and Identity Management](https://github.com/Yveto-M/Entra-ID-Integration-and-Identity-Management)
+
+- [Azure App Service Deployment and Scaling](https://github.com/Yveto-M/Azure-App-Service-Deployment-and-Scaling/blob/main/README.md)
 
 <hr/>
 
