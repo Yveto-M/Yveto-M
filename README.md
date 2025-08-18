@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - [Impossible-Travel-Detection](https://github.com/Yveto-M/Threat-Hunting-Lab-Impossible-Travel-Detection)
 
-<p style="font-family:Courier; font-size:90px; color:black;">🛡️ <b>Microsoft Azure Administrator Projects</b></p>
+<p style="font-family:Courier; font-size:90px; color:black;">🛡️ <b>Azure Administrator/IAM Projects</b></p>
 
 -  [Azure Compute and Identity Management Project](https://github.com/Yveto-M/Azure-Compute-and-Identity-Management-Project-1-.git)
 
@@ -26,6 +26,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - [Entra ID Integration and Identity Management](https://github.com/Yveto-M/Entra-ID-Integration-and-Identity-Management)
 
 - [Azure App Service Deployment and Scaling](https://github.com/Yveto-M/Azure-App-Service-Deployment-and-Scaling/blob/main/README.md)
+
+  
 
 <hr/>
 
