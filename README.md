@@ -33,7 +33,7 @@ Each project highlights my approach to problem-solving, risk reduction, and oper
 
 These projects demonstrate the deployment, configuration, and synchronization of CyberArk Privileged Access Management components, reflecting best practices in enterprise IAM and fault-tolerant security architecture.
 
--https://github.com/Yveto-M/CyberArk-Privileged-Access-Management-PAM-Lab-Version-12
+- https://github.com/Yveto-M/CyberArk-Privileged-Access-Management-PAM-Lab-Version-12
 <hr/>
 
 ## 🤳 Connect With Me
