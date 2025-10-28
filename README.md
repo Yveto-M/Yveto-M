@@ -1,6 +1,8 @@
-# <a href="https://www.linkedin.com/in/yveto-meus/">Yveto Meus</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/yveto-meus/"> 🔐 Yveto Meus's IT, IAM, and Cybersecurity Project Portfolio
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects enable me to delve deeply into the ever-evolving landscape of cybersecurity. Please feel free to review them and see the work I’ve put into enhancing security operations and processes.
+I’m passionate about cybersecurity, specializing in Identity and Access Management (IAM) and Privileged Access Management (PAM). My projects focus on implementing secure access controls, privileged account protection, and infrastructure hardening across hybrid environments.
+From vulnerability management and Azure IAM to hands-on CyberArk deployments, these labs demonstrate my ability to integrate enterprise-grade security tools, automate protection, and ensure resilience in production systems.
+Each project highlights my approach to problem-solving, risk reduction, and operational security through real-world simulation and implementation.
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -8,15 +10,14 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/Yveto-M/Vulnerability-management-program)**
 
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 **Threat Hunting and Security Operations**
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Yveto-M/Threat_Hunt_Event_-TOR-Usage-)**
 
 
 - [Impossible-Travel-Detection](https://github.com/Yveto-M/Threat-Hunting-Lab-Impossible-Travel-Detection)
 
-<p style="font-family:Courier; font-size:90px; color:black;">🛡️ <b>Azure Administrator/IAM Projects</b></p>
-
+<p style="font-family:Courier; font-size:90px; color:black;">**☁️ Azure Administrator / IAM Projects**
 -  [Azure Compute and Identity Management Project](https://github.com/Yveto-M/Azure-Compute-and-Identity-Management-Project-1-.git)
 
 - [Azure-Networking-Storage ](https://github.com/Yveto-M/Azure-Networking-Storage)
@@ -27,7 +28,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - [Azure App Service Deployment and Scaling](https://github.com/Yveto-M/Azure-App-Service-Deployment-and-Scaling/blob/main/README.md)
 
-  
+ **🔐 CyberArk PAM Deployment Projects**
+
+These projects demonstrate the deployment, configuration, and synchronization of CyberArk Privileged Access Management components, reflecting best practices in enterprise IAM and fault-tolerant security architecture.
 
 <hr/>
 
