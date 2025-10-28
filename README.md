@@ -17,7 +17,7 @@ Each project highlights my approach to problem-solving, risk reduction, and oper
 
 - [Impossible-Travel-Detection](https://github.com/Yveto-M/Threat-Hunting-Lab-Impossible-Travel-Detection)
 
- <h2>**☁️Azure Administrator / IAM Projects**</h2>
+ <h2>☁️Azure Administrator / IAM Projects</h2>
  
 -  [Azure Compute and Identity Management Project](https://github.com/Yveto-M/Azure-Compute-and-Identity-Management-Project-1-.git)
 
