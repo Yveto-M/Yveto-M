@@ -17,7 +17,7 @@ Each project highlights my approach to problem-solving, risk reduction, and oper
 
 - [Impossible-Travel-Detection](https://github.com/Yveto-M/Threat-Hunting-Lab-Impossible-Travel-Detection)
 
-☁️ **Azure Administrator / IAM Projects**
+☁️ <h2>**Azure Administrator / IAM Projects**</h2>
  
 -  [Azure Compute and Identity Management Project](https://github.com/Yveto-M/Azure-Compute-and-Identity-Management-Project-1-.git)
 
@@ -29,7 +29,7 @@ Each project highlights my approach to problem-solving, risk reduction, and oper
 
 - [Azure App Service Deployment and Scaling](https://github.com/Yveto-M/Azure-App-Service-Deployment-and-Scaling/blob/main/README.md)
 
-<h2>##🔐 **CyberArk PAM Deployment Projects**</h2>
+<h2>##🔐 CyberArk PAM Deployment Projects</h2>
 
 These projects demonstrate the deployment, configuration, and synchronization of CyberArk Privileged Access Management components, reflecting best practices in enterprise IAM and fault-tolerant security architecture.
 
