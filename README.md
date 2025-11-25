@@ -29,8 +29,6 @@ Each project highlights my approach to problem-solving, risk reduction, and oper
 
 - [Azure App Service Deployment and Scaling](https://github.com/Yveto-M/Azure-App-Service-Deployment-and-Scaling/blob/main/README.md)
 
--** Enterprise Identity Lifecycle Automation **
-
 <h2>🔐 CyberArk PAM Deployment Projects</h2>
 
 These projects demonstrate the deployment, configuration, and synchronization of CyberArk Privileged Access Management components, reflecting best practices in enterprise IAM and fault-tolerant security architecture.
@@ -38,6 +36,7 @@ These projects demonstrate the deployment, configuration, and synchronization of
 - https://github.com/Yveto-M/CyberArk-Privileged-Access-Management-PAM-Lab-Version-12
 <hr/>
 
+<h2>Enterprise Identity Lifecycle Automation </h2>
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
