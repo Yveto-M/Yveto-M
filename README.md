@@ -1,9 +1,10 @@
 # <a href="https://www.linkedin.com/in/yveto-meus/"> 🔐 Yveto Meus's IT, IAM, and Cybersecurity Project Portfolio
 
-I’m passionate about cybersecurity, specializing in Identity and Access Management (IAM) and Privileged Access Management (PAM). My projects focus on implementing secure access controls, privileged account protection, and infrastructure hardening across hybrid environments.
-From vulnerability management and Azure IAM to hands-on CyberArk deployments, these labs demonstrate my ability to integrate enterprise-grade security tools, automate protection, and ensure resilience in production systems.
-Each project highlights my approach to problem-solving, risk reduction, and operational security through real-world simulation and implementation.
+**Cloud Identity Engineer & IAM Specialist**
 
+Focused on architecting Zero Trust access models and automating identity lifecycles across hybrid environments.
+
+🛠️ Core Stack: CyberArk (PAM) | Okta (IAM) | Microsoft Entra ID | Azure & AWS ⚡ Specialization: Identity Automation (SCIM/API), Threat Detection (Sentinel/KQL), and Infrastructure Hardening. 🚀 Portfolio: Documented labs demonstrating end-to-end provisioning, privileged access control, and automated risk remediation.
 
 
 **<h2>Enterprise Identity Lifecycle Automation </h2>**
