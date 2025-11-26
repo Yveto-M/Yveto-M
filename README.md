@@ -5,6 +5,18 @@ From vulnerability management and Azure IAM to hands-on CyberArk deployments, th
 Each project highlights my approach to problem-solving, risk reduction, and operational security through real-world simulation and implementation.
 
 
+**<h2>🔐 CyberArk PAM Deployment Projects</h2>**
+
+These projects demonstrate the deployment, configuration, and synchronization of CyberArk Privileged Access Management components, reflecting best practices in enterprise IAM and fault-tolerant security architecture.
+
+- [CyberArk PAM Deployment](https://github.com/Yveto-M/CyberArk-Privileged-Access-Management-PAM-Lab-Version-12)
+<hr/>
+
+**<h2>Enterprise Identity Lifecycle Automation </h2>**
+
+-[Enterprise-Identity-Lifecycle-Automation-Okta-to-GitHub-SCIM-](https://github.com/Yveto-M/Enterprise-Identity-Lifecycle-Automation-Okta-to-GitHub-SCIM-)
+
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Yveto-M/Vulnerability-management-program)**
@@ -29,17 +41,6 @@ Each project highlights my approach to problem-solving, risk reduction, and oper
 
 - [Azure App Service Deployment and Scaling](https://github.com/Yveto-M/Azure-App-Service-Deployment-and-Scaling/blob/main/README.md)
 
-
-**<h2>🔐 CyberArk PAM Deployment Projects</h2>**
-
-These projects demonstrate the deployment, configuration, and synchronization of CyberArk Privileged Access Management components, reflecting best practices in enterprise IAM and fault-tolerant security architecture.
-
-- [CyberArk PAM Deployment](https://github.com/Yveto-M/CyberArk-Privileged-Access-Management-PAM-Lab-Version-12)
-<hr/>
-
-**<h2>Enterprise Identity Lifecycle Automation </h2>**
-
--[Enterprise-Identity-Lifecycle-Automation-Okta-to-GitHub-SCIM-](https://github.com/Yveto-M/Enterprise-Identity-Lifecycle-Automation-Okta-to-GitHub-SCIM-)
 
 ## 🤳 Connect With Me
 
