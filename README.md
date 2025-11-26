@@ -37,7 +37,7 @@ These projects demonstrate the deployment, configuration, and synchronization of
 <hr/>
 
 <h2>Enterprise Identity Lifecycle Automation </h2>
--[Enterprise-Identity-Lifecycle-Automation-Okta-to-GitHub-SCIM-] 
+-[Enterprise-Identity-Lifecycle-Automation-Okta-to-GitHub-SCIM-](https://github.com/Yveto-M/Enterprise-Identity-Lifecycle-Automation-Okta-to-GitHub-SCIM-)
 
 ## 🤳 Connect With Me
 
