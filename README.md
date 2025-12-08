@@ -11,7 +11,8 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 
 - [Enterprise-Identity-Lifecycle-Automation-Okta-to-GitHub-SCIM-](https://github.com/Yveto-M/Enterprise-Identity-Lifecycle-Automation-Okta-to-GitHub-SCIM-)
 
-
+- [Identity-Threat-Detection-Response-ITDR-Sentinel-Entra-ID](https://github.com/Yveto-M/Identity-Threat-Detection-Response-ITDR-Sentinel-Entra-ID)
+- 
 **<h2>🔐 CyberArk PAM Deployment Projects</h2>**
 
 These projects demonstrate the deployment, configuration, and synchronization of CyberArk Privileged Access Management components, reflecting best practices in enterprise IAM and fault-tolerant security architecture.
