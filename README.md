@@ -31,13 +31,12 @@ These projects demonstrate the deployment, configuration, and synchronization of
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/Yveto-M/Vulnerability-management-program)**
+- [Vulnerability Management Program Implementation](https://github.com/Yveto-M/Vulnerability-management-program)
 
 
 ## 🚨 **Threat Hunting and Security Operations**
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Yveto-M/Threat_Hunt_Event_-TOR-Usage-)**
-
+- [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Yveto-M/Threat_Hunt_Event_-TOR-Usage-)
 
 - [Impossible-Travel-Detection](https://github.com/Yveto-M/Threat-Hunting-Lab-Impossible-Travel-Detection)
 
