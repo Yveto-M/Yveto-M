@@ -14,6 +14,9 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 - [Identity-Threat-Detection-Response-ITDR-Sentinel-Entra-ID](https://github.com/Yveto-M/Identity-Threat-Detection-Response-ITDR-Sentinel-Entra-ID)
 
 - [Enterprise-Identity-Governance-Administration-IGA-Architecture](https://github.com/Yveto-M/Enterprise-Identity-Governance-Administration-IGA-Architecture)
+
+- [Hybrid-Identity-Architecture-Active-Directory-to-Entra-ID-Synchronization](https://github.com/Yveto-M/Hybrid-Identity-Architecture-Active-Directory-to-Entra-ID-Synchronization/blob/main/README.md)
+  
 **<h2>🔐 CyberArk PAM Deployment Projects</h2>**
 
 These projects demonstrate the deployment, configuration, and synchronization of CyberArk Privileged Access Management components, reflecting best practices in enterprise IAM and fault-tolerant security architecture.
