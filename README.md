@@ -5,7 +5,9 @@
 Focused on architecting Zero Trust access models and automating identity lifecycles across hybrid environments.
 
 🛠️ Core Stack: CyberArk (PAM) | Okta (IAM) | Microsoft Entra ID | Azure & AWS
+
 ⚡ Specialization: Identity Automation (SCIM/API), Threat Detection (Sentinel/KQL), and Infrastructure Hardening.
+
 🚀 Portfolio: Documented labs demonstrating end-to-end provisioning, privileged access control, and automated risk remediation.
 
 
