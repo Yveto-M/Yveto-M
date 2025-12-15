@@ -24,6 +24,8 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 
 **<ch2>PowerShell-Identity-Automation</h2>**
 
+-[Automated-Identity-Provisioning-Tool-DoD-Compliance](https://github.com/Yveto-M/Automated-Identity-Provisioning-Tool-DoD-Compliance-/blob/main/README.md)
+
 
 **<h2>🔐 CyberArk PAM Deployment Projects</h2>**
 
