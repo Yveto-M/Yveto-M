@@ -21,6 +21,7 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 
 - [Hybrid-Identity-Architecture-Active-Directory-to-Entra-ID-Synchronization](https://github.com/Yveto-M/Hybrid-Identity-Architecture-Active-Directory-to-Entra-ID-Synchronization/blob/main/README.md)
 
+-[Hybrid-Identity-Threat-Detection-Lab-On-Premise-to-Cloud-Sentinel](https://github.com/Yveto-M/Hybrid-Identity-Threat-Detection-Lab-On-Premise-to-Cloud-Sentinel-/blob/main/README.md)
 
 **<ch2>PowerShell-Identity-Automation</h2>**
 
