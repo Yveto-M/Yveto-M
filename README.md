@@ -23,9 +23,9 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 - [Hybrid-ITDR-Pipeline-Azure-Arc-Entra-ID-Protection-](https://github.com/Yveto-M/Hybrid-ITDR-Pipeline-Azure-Arc-Entra-ID-Protection-)
 - The Engineering Highlight: Engineered a full ITDR loop using Azure Arc to project a local DC into Microsoft Sentinel. Diagnosed a platform-wide schema migration issue and refactored KQL queries to align with the May 2025 Unified SOC schema.
 
-Skills: Azure Arc, KQL, Risk-Based Conditional Access (MFA Kill-Switch), Kali Linux (Password Spraying).
+- Skills: Azure Arc, KQL, Risk-Based Conditional Access (MFA Kill-Switch), Kali Linux (Password Spraying).
 
-Impact: Validated automated remediation of identity threats, reducing MTTR (Mean Time to Respond) to seconds.
+- Impact: Validated automated remediation of identity threats, reducing MTTR (Mean Time to Respond) to seconds.
 
 - [Identity-Threat-Detection-Response-ITDR-Sentinel-Entra-ID](https://github.com/Yveto-M/Identity-Threat-Detection-Response-ITDR-Sentinel-Entra-ID)
 
