@@ -54,6 +54,7 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 **<h2>🔐 CyberArk PAM Deployment Projects</h2>**
 **Securing Tier-0 assets and administrative credentials.**
 
+- [CyberArk-PAS 13.2-Enterprise-Implementation-Disaster-Recovery](https://github.com/Yveto-M/CyberArk-PAS-Enterprise-Implementation-Disaster-Recovery-Lab/tree/main?search=1)
 - [CyberArk PAM Deployment](https://github.com/Yveto-M/CyberArk-Privileged-Access-Management-PAM-Lab-Version-12)
 <hr/>
 - Full deployment of Vault, PVWA, CPM, and PSM components for enterprise hardening.
