@@ -57,12 +57,12 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 - [CyberArk-PAS 13.2-Enterprise-Implementation-Disaster-Recovery](https://github.com/Yveto-M/CyberArk-PAS-Enterprise-Implementation-Disaster-Recovery-Lab/tree/main?search=1)
   
 - [CyberArk PAM Deployment v12](https://github.com/Yveto-M/CyberArk-Privileged-Access-Management-PAM-Lab-Version-12)
-<hr/>
 - Full deployment of Vault, PVWA, CPM, and PSM components for enterprise hardening.
+
 
 **<h2>🛠️ CyberArk Troubleshooting & Root Cause Analysis (RCA)</h2>**
 
-- (https://github.com/Yveto-M/Disaster-Recovery-Drill-Manual-Failover-Failback-Test)
+- [Disaster-Recovery-Drill-Manual-Failover-Failback-Test](https://github.com/Yveto-M/Disaster-Recovery-Drill-Manual-Failover-Failback-Test)
 
 
 ## ⚠️ Vulnerability Management Projects
