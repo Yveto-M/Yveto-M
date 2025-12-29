@@ -60,6 +60,9 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 <hr/>
 - Full deployment of Vault, PVWA, CPM, and PSM components for enterprise hardening.
 
+**<h2>🛠️ CyberArk Troubleshooting & Root Cause Analysis (RCA)</h2>**
+
+
 ## ⚠️ Vulnerability Management Projects
 
 - [Vulnerability Management Program Implementation](https://github.com/Yveto-M/Vulnerability-management-program)
