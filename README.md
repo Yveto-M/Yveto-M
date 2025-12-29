@@ -62,6 +62,8 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 
 **<h2>🛠️ CyberArk Troubleshooting & Root Cause Analysis (RCA)</h2>**
 
+- (https://github.com/Yveto-M/Disaster-Recovery-Drill-Manual-Failover-Failback-Test)
+
 
 ## ⚠️ Vulnerability Management Projects
 
