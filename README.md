@@ -65,6 +65,7 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 
 - [CyberArk-CPM-Hardened-Recovery-Zombie-Session-Termination](https://github.com/Yveto-M/CyberArk-CPM-Hardened-Recovery-Zombie-Session-Termination/blob/main/README.md)
 
+- [Identity-Governance-Remediation---Fixing-Split-Brain-Password-Policies](https://github.com/Yveto-M/Identity-Governance-Remediation---Fixing-Split-Brain-Password-Policies/blob/main/README.md)
 
 ## ⚠️ Vulnerability Management Projects
 
