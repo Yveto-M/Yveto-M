@@ -63,6 +63,7 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 
 - [Disaster-Recovery-Drill-Manual-Failover-Failback-Test](https://github.com/Yveto-M/Disaster-Recovery-Drill-Manual-Failover-Failback-Test)
 
+- [CyberArk-CPM-Hardened-Recovery-Zombie-Session-Termination](https://github.com/Yveto-M/CyberArk-CPM-Hardened-Recovery-Zombie-Session-Termination/blob/main/README.md)
 
 
 ## ⚠️ Vulnerability Management Projects
