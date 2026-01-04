@@ -35,6 +35,10 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 
 - Skills: Entra Connect, Password Hash Sync (PHS), Identity source of authority management.
 
+- [Cloud-Identity-Architecture-Zero-Trust-Resiliency-Automated-Governance](https://github.com/Yveto-M/Cloud-Identity-Architecture-Zero-Trust-Resiliency-Automated-Governance/blob/main/README.md)
+
+- Skills: "Break Glass" Architecture Design, Conditional Access "Kill Switch", AD ACL Delegation, Automated Entitlement Management (JIT)
+  
 **<h2>⚙️ Enterprise IAM & Lifecycle Automation</h2>**
 **Focusing on the Engineer standard of building automated provisioning pipelines.**
 
