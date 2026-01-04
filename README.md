@@ -85,7 +85,7 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
  **<h2>☁️Azure Administrator / IAM Projects</h2>**
  **Baseline engineering skills required for modern Cloud Identity roles.**
  
--  [Azure Compute and Identity Management Project](https://github.com/Yveto-M/Azure-Compute-and-Identity-Management-Project-1-.git)
+-  [Azure Compute and Identity Management](https://github.com/Yveto-M/Azure-Compute-and-Identity-Management-Project-1-.git)
 
 - [Entra ID Integration and Identity Management](https://github.com/Yveto-M/Entra-ID-Integration-and-Identity-Management)
 - [Azure-Networking-Storage ](https://github.com/Yveto-M/Azure-Networking-Storage)
