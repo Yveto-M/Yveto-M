@@ -72,6 +72,8 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 - [Identity-Governance-Remediation---Fixing-Split-Brain-Password-Policies](https://github.com/Yveto-M/Identity-Governance-Remediation---Fixing-Split-Brain-Password-Policies/blob/main/README.md)
 
 - [CyberArk-PAM-Automation-REST-API-Password-Retrieval](https://github.com/Yveto-M/CyberArk-PAM-Automation-REST-API-Password-Retrieval/blob/main/README.md)
+
+- [CyberArk-REST-API-Automated-Bulk-Onboarding]( https://github.com/Yveto-M/CyberArk-REST-API-Automated-Bulk-Onboarding/blob/main/README.md)
   
 ## ⚠️ Vulnerability Management Projects
 
