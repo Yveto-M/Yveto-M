@@ -14,6 +14,10 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 **<h2>🛡️ Featured: Hybrid Identity & Security Operations </h2>**
 **This section highlights the ability to bridge legacy On-Premise AD with Cloud-Native Security (Sentinel).**
 
+- [Hybrid-Identity-Integration-Lab-RHEL-9-Active-Directory](https://github.com/Yveto-M/Hybrid-Identity-Integration-Lab-RHEL-9-Active-Directory/blob/main/README.md)
+
+- Engineered a cross-platform identity bridge by integrating RHEL 9 with Active Directory to enable Kerberos-based authentication and automated RBAC for CyberArk-ready environments.
+  
 - [Hybrid-Identity-Threat-Detection-Lab-On-Premise-to-Cloud-Sentinel](https://github.com/Yveto-M/Hybrid-Identity-Threat-Detection-Lab-On-Premise-to-Cloud-Sentinel-/blob/main/README.md)
 
 - The Engineering Highlight: Diagnosed a silent failure in the Azure Monitor Agent (AMA) and force-refreshed Data Collection Rules (DCR) to restore log ingestion.
