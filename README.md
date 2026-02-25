@@ -69,6 +69,8 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 
 **<h2>🛠️ CyberArk Troubleshooting & Root Cause Analysis (RCA)</h2>**
 
+- [CyberArk-PADR-Replication-Failure-Diagnosis-Recovery-CyberArk-v14]
+
 - [Disaster-Recovery-Drill-Manual-Failover-Failback-Test](https://github.com/Yveto-M/Disaster-Recovery-Drill-Manual-Failover-Failback-Test)
 
 - [CyberArk-CPM-Hardened-Recovery-Zombie-Session-Termination](https://github.com/Yveto-M/CyberArk-CPM-Hardened-Recovery-Zombie-Session-Termination/blob/main/README.md)
