@@ -14,6 +14,10 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 **<h2>🛡️ Featured: Hybrid Identity & Security Operations </h2>**
 **This section highlights the ability to bridge legacy On-Premise AD with Cloud-Native Security (Sentinel).**
 
+- [Law-Firm-Zero-Trust-IAM-Lab-Joiners-Movers-Leavers-VIP-Break-Fix](https://github.com/Yveto-M/Law-Firm-Zero-Trust-IAM-Lab-Joiners-Movers-Leavers-VIP-Break-Fix/blob/main/README.md)
+
+- Lab demonstrating law‑firm style Zero Trust IAM with joiner/mover/leaver flows, role‑based file access, and Conditional Access + TAP for partner MFA recovery.
+  
 - [Hybrid-Identity-Integration-Lab-RHEL-9-Active-Directory](https://github.com/Yveto-M/Hybrid-Identity-Integration-Lab-RHEL-9-Active-Directory/blob/main/README.md)
 
 - Engineered a cross-platform identity bridge by integrating RHEL 9 with Active Directory to enable Kerberos-based authentication and automated RBAC for CyberArk-ready environments.
