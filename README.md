@@ -50,6 +50,9 @@ Focused on architecting Zero Trust access models and automating identity lifecyc
 **<h2>⚙️ Enterprise IAM & Lifecycle Automation</h2>**
 **Focusing on the Engineer standard of building automated provisioning pipelines.**
 
+- [ServiceNow-SAML-SSO-with-Microsoft-Entra-ID](https://github.com/Yveto-M/ServiceNow-SAML-SSO-with-Microsoft-Entra-ID/blob/main/README.md)
+- ServiceNow Zurich PDI integrated with Microsoft Entra ID using SAML SSO, including resolution of a blocked IdP activation via controlled ServiceNow system property configuration.
+
 - [Enterprise-Identity-Lifecycle-Automation-Okta-to-GitHub-SCIM-](https://github.com/Yveto-M/Enterprise-Identity-Lifecycle-Automation-Okta-to-GitHub-SCIM-)
 
 - Automated provisioning/deprovisioning to eliminate manual overhead and "orphan" accounts.
